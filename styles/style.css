@@ -15,7 +15,7 @@
 }
 
 .logo {
-  width: 183px;;
+  width: 183px;
 }
 
 .logo_place_header {
@@ -323,6 +323,8 @@
 
 .footer__author {
   margin: 18px 0;
+  line-height: 25px;
+  font-size: 18px;
 }
 
 .logo_place_footer {
@@ -353,11 +355,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-}
-
-.footer__author {
-  line-height: 25px;
-  font-size: 18px;
 }
 
 .footer__social-icon {
