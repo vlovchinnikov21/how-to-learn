@@ -15,4 +15,4 @@
 ## Планы по доработке
 * Адаптировать сайт под разные виды девайсов
 
-[Ссылка на проект](https://metalass21.github.io/how-to-learn/)
+[Ссылка на проект](https://vlovchinnikov21.github.io/how-to-learn/)
